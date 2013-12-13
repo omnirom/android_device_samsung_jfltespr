@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6b8b61a3_d5f95719",
+        "filename": "omni_jfltespr.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1000032
+      },
+      "writtenOn": "2013-12-13T02:33:23Z",
+      "side": 1,
+      "message": "This line should be removed as neither files would exist after the APN cleanup patch in vendor.",
+      "revId": "50fca5ed0d4713c446d98b290e6ac7de86733d3a",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "6b8b61a3_f5fe53fe",
+        "filename": "omni_jfltespr.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1000032
+      },
+      "writtenOn": "2013-12-13T02:33:23Z",
+      "side": 1,
+      "message": "Stk is a GSM thing, so this should be in att, tmo, and can instead.",
+      "revId": "50fca5ed0d4713c446d98b290e6ac7de86733d3a",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
